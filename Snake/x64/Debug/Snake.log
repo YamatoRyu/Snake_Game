@@ -1,0 +1,22 @@
+﻿  MainApplication.cpp
+D:\C++\Snake\Food.h(39,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MainApplication.cpp')
+  
+D:\C++\Snake\Food.h(39,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'MainApplication.cpp')
+  
+D:\C++\Snake\Food.h(43,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainApplication.cpp')
+  
+D:\C++\Snake\Food.h(44,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'MainApplication.cpp')
+  
+D:\C++\Snake\Snake.h(24,19): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'MainApplication.cpp')
+  
+D:\C++\Snake\Snake.h(25,19): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'MainApplication.cpp')
+  
+  Snake.vcxproj -> D:\C++\Snake\x64\Debug\Snake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,3 @@
+D:\C++\Snake\x64\Debug\raylib.dll
+D:\C++\Snake\x64\Debug\glfw3.dll
+D:\C++\Snake\Snake\x64\Debug\Snake.vcxproj.Up2Date
